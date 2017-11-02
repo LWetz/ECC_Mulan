@@ -1,0 +1,8 @@
+Data: data/NNRTI
+Took: 95.38964899999999 ms
+Prediction: 0.7711864406779662%
+
+Data: data/yeast
+Took: 1212.829138 ms
+Prediction: 0.8092552810597924%
+
